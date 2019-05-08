@@ -1,0 +1,15 @@
+John Smith
+99.45 93.22 76.93
+Math Science Biology
+Sarah Johnson
+87.21 92.12 84.91 93.75
+Math Science Biology Reading
+George Franco
+78.99 89.3
+Math Science
+Stephan Brooks
+90.00 78.21 89.3 91.11 88.65
+Math Science Biology Reading Writing
+Jaimee Clark
+91.23 73.29 90.32
+Math Science Biology
